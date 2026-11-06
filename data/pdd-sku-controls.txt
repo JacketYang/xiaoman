@@ -1,0 +1,41 @@
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.LinearLayout', 'bounds': '[0,68][1080,1920]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.ViewSwitcher', 'bounds': '[0,195][1080,299]', 'clickable': 'true'}
+{'text': '#七天退换#48小时发货', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[279,214][801,279]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.view.View', 'bounds': '[0,195][1080,218]', 'clickable': 'true'}
+{'text': '', 'content-desc': '关闭', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.ImageView', 'bounds': '[982,212][1052,282]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.view.ViewGroup', 'bounds': '[0,299][1080,1920]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[0,299][1080,465]', 'clickable': 'true'}
+{'text': '7天无理由退货', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[130,326][373,374]', 'clickable': 'false'}
+{'text': '181*...，181****7240', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[390,324][744,376]', 'clickable': 'false'}
+{'text': '北湖北路51号手拖厂宿舍', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[124,388][999,440]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[0,465][1080,566]', 'clickable': 'true'}
+{'text': '预计14小时内发货', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[124,485][439,547]', 'clickable': 'false'}
+{'text': '近期本店2367单2天内送达', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[475,485][939,547]', 'clickable': 'false'}
+{'text': '', 'content-desc': '商品主图', 'resource-id': 'com.xunmeng.pinduoduo:id/iv_live_img', 'class': 'android.widget.FrameLayout', 'bounds': '[34,607][357,930]', 'clickable': 'true'}
+{'text': '限量低价 ¥1.68', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[391,605][712,676]', 'clickable': 'false'}
+{'text': '¥1.99', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[729,605][850,676]', 'clickable': 'false'}
+{'text': '已包邮', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[391,690][521,743]', 'clickable': 'false'}
+{'text': '已选： 加厚作业本*【标准尺寸16k*】52页/本 【练习本】1本丨', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[391,754][1055,867]', 'clickable': 'false'}
+{'text': '', 'content-desc': '减少数量', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.ImageView', 'bounds': '[391,901][453,974]', 'clickable': 'true'}
+{'text': '1', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.EditText', 'bounds': '[454,901][533,974]', 'clickable': 'true'}
+{'text': '', 'content-desc': '增加数量', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.ImageView', 'bounds': '[534,901][596,974]', 'clickable': 'true'}
+{'text': '本月浏览量飙升60%', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[607,913][942,961]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.LinearLayout', 'bounds': '[34,1020][1046,1096]', 'clickable': 'true'}
+{'text': '尺寸', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1030][118,1086]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[34,1107][722,1193]', 'clickable': 'true'}
+{'text': '加厚作业本*【标准尺寸16k*】52页/本', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1107][722,1193]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.LinearLayout', 'bounds': '[34,1227][1046,1303]', 'clickable': 'true'}
+{'text': '款式', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1237][118,1293]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[34,1314][755,1400]', 'clickable': 'true'}
+{'text': '  【语5+数5+英5+作文5】20本丨  ¥12.9', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1314][755,1400]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[34,1428][735,1514]', 'clickable': 'true'}
+{'text': '【语5+数5+英5+练习5】20本丨  ¥12.77', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1428][735,1514]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[34,1542][759,1628]', 'clickable': 'true'}
+{'text': '  【语文5+数学5+英语5】15本丨  ¥10.35', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1542][759,1628]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': '', 'class': 'android.view.ViewGroup', 'bounds': '[34,1656][723,1689]', 'clickable': 'true'}
+{'text': '【语文5+数学5+练习5】15本丨  ¥10.35', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[34,1656][723,1689]', 'clickable': 'true'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.view.ViewGroup', 'bounds': '[0,1689][1080,1782]', 'clickable': 'true'}
+{'text': '使用#微信支付，更换先用后付可0元下单', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.TextView', 'bounds': '[147,1709][897,1761]', 'clickable': 'false'}
+{'text': '', 'content-desc': '', 'resource-id': 'com.xunmeng.pinduoduo:id/pdd', 'class': 'android.widget.FrameLayout', 'bounds': '[0,1782][1080,1920]', 'clickable': 'true'}
+{'text': '提交订单 ¥1.68', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[391,1819][689,1882]', 'clickable': 'false'}
+{'text': '早于95%同类商品送达', 'content-desc': '', 'resource-id': '', 'class': 'android.widget.TextView', 'bounds': '[621,1766][1046,1814]', 'clickable': 'false'}
