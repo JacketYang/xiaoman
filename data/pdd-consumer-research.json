@@ -1,0 +1,117 @@
+{
+  "researchedAt": "2026-10-26T09:55:00.953Z",
+  "method": "Playwright Core connected to existing Chrome via CDP; a newly created page was used and closed after collection. No login, merchant backend access, or purchase.",
+  "scope": [
+    "https://mobile.yangkeduo.com/",
+    "https://www.pinduoduo.com/"
+  ],
+  "findings": {
+    "consumerSiteAccessible": true,
+    "targetedProductsAndTerminalPricesObtained": false,
+    "matchedProductCount": 0,
+    "summary": "移动消费者首页可展示商品和标价，但四个指定关键词均未获得商品搜索结果、规格或终端售价：搜索访问或跳转消费者登录页，或无可见商品文本。www.pinduoduo.com 首页可访问并展示推荐商品价格；带 search_key 参数的首页访问未呈现关键词搜索结果。",
+    "desktopSearchProbe": {
+      "query": "16K语文作业本5本",
+      "requestedUrl": "https://www.pinduoduo.com/?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "actualUrl": "https://www.pinduoduo.com/?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "result": "homepage_recommendations_only_no_keyword_results"
+    }
+  },
+  "searchResults": [
+    {
+      "query": "16K语文作业本5本",
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D16K%25E8%25AF%25AD%25E6%2596%2587%25E4%25BD%259C%25E4%25B8%259A%25E6%259C%25AC5%25E6%259C%25AC&refer_page_name=search_result&refer_page_id=10015_1793008449138_shw7yfc83i&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策",
+      "matchedProducts": [],
+      "status": "consumer_login_required"
+    },
+    {
+      "query": "学生多功能便利贴组合",
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E5%AD%A6%E7%94%9F%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BE%BF%E5%88%A9%E8%B4%B4%E7%BB%84%E5%90%88",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E5%25AD%25A6%25E7%2594%259F%25E5%25A4%259A%25E5%258A%259F%25E8%2583%25BD%25E4%25BE%25BF%25E5%2588%25A9%25E8%25B4%25B4%25E7%25BB%2584%25E5%2590%2588&refer_page_name=search_result&refer_page_id=10015_1793008459629_golocksfdu&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策",
+      "matchedProducts": [],
+      "status": "consumer_login_required"
+    },
+    {
+      "query": "串串乐按动中性笔套装",
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E4%B8%B2%E4%B8%B2%E4%B9%90%E6%8C%89%E5%8A%A8%E4%B8%AD%E6%80%A7%E7%AC%94%E5%A5%97%E8%A3%85",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E4%25B8%25B2%25E4%25B8%25B2%25E4%25B9%2590%25E6%258C%2589%25E5%258A%25A8%25E4%25B8%25AD%25E6%2580%25A7%25E7%25AC%2594%25E5%25A5%2597%25E8%25A3%2585&refer_page_name=search_result&refer_page_id=10015_1793008469883_95i02bbj5w&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策",
+      "matchedProducts": [],
+      "status": "consumer_login_required"
+    },
+    {
+      "query": "可擦笔10芯1笔套装",
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E5%8F%AF%E6%93%A6%E7%AC%9410%E8%8A%AF1%E7%AC%94%E5%A5%97%E8%A3%85",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E5%258F%25AF%25E6%2593%25A6%25E7%25AC%259410%25E8%258A%25AF1%25E7%25AC%2594%25E5%25A5%2597%25E8%25A3%2585&refer_page_name=search_result&refer_page_id=10015_1793008480231_6h2h0tz1dc&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策",
+      "matchedProducts": [],
+      "status": "consumer_login_required"
+    }
+  ],
+  "visits": [
+    {
+      "requestedUrl": "https://mobile.yangkeduo.com/",
+      "actualUrl": "https://mobile.yangkeduo.com/",
+      "httpStatus": 200,
+      "title": "拼多多",
+      "pageText": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​\n耳机\n推荐食品百货医药母婴车品女装鞋包内衣电器运动男装美妆水果家纺家装电脑手机家具饰品海淘玩乐特殊食品\n用手机浏览器扫码在拼多多App打开\n限时秒杀\n充值中心\n补贴多人团\n多多果园\n\n其他\n\n新电动全铜喷头水钻机德国可调节高压雾化捣固机水钻机省农药通用\n极速退款\n5.67\n本店已拼14.4万+件\n三角洲行动可伸缩北极星坠星者信条龙牙黑海影锋周边塑料玩具小刀\n极速退款\n1.49\n本店已拼1.7万件\n50双便宜春秋一次性短袜免洗男士防臭袜子吸汗夏季浅口潮流百搭袜\n0.88\n已拼7.8万+双\nVintage 古着 | Sun and the Moon 日月同辉戒指情侣闺蜜高级指环\n1.61\n本店已拼52.3万+件\npvc50排水管国标防臭器110加厚返水神器堵口防虫75外套防蛇虫防鼠\n极速退款\n0.72\n本店已拼456万+件\n甜美波点蝴蝶结椭圆发夹女前额侧边刘海夹碎发鸭嘴夹儿童发卡头饰\n0.87\n本店已拼71.6万+件\n华强北顶配S11智能手表全功能蓝牙电话音乐灵动岛黑科技男女运动\n18.9\n本店已拼2247件\nhachimi黄油棒超湿软日式爆款可爱新品网红同款捏捏卡通手指食玩\n2.67\n本店已拼9万件\n太空舱枕头一对家用单人成人宿舍学生双人记忆颈椎枕芯星级睡眠\n退货包运费\n8.6\n本店已拼15.6万+件\n烟云茉莉花香水栀子花香氛喷雾纯净微风男女士持久留香淡织物喷雾\n极速退款\n2.33\n本店已拼47.7万+件\n正在加载中...\n顶部\n首页\n直播\n分类\n聊天\n个人中心"
+    },
+    {
+      "requestedUrl": "https://www.pinduoduo.com/",
+      "actualUrl": "https://www.pinduoduo.com/",
+      "httpStatus": 200,
+      "title": "拼多多 新电商开创者",
+      "pageText": "首页拼多多商家入驻热点资讯社会招聘校园招聘招采平台帮助中心举报平台分享赚钱查快递\n简体中文\n精彩活动\n更多 >\n精选专题\n更多 >\n库思玛高腰黑色微喇叭牛仔裤女秋季新款百搭垂感显瘦不贴腿拖地裤\n￥79.8￥200\n唐狮浅蓝色运动t恤女夏季薄款纯色百搭休闲上衣凉感速干短袖体恤\n￥39.5￥199\nLiebo裂帛韩系复古条纹连帽慵懒针织开衫女秋冬季宽松长款外套\n￥79.9￥202\n回力美式长袖T恤男士早秋上衣德绒保暖体恤青少年潮牌打底衫内搭C\n￥29.9￥199\n【免烫抗皱】杉杉春秋新款经典防风轻薄翻领夹克爸爸纯色中年外套\n￥139￥999\nSWAMP AREA老钱风复古开衫毛衣男秋高街宽松休闲针织衫潮牌外套\n￥69.8￥170\n佐今明 牛黄上清片 0.27g*18片/盒 牛黄清热泻火头痛耳鸣止痛咽喉肿痛喉咙痛牙痛牙龈口舌生疮便秘\n￥7.27￥54.8\n中粮蜂蜜山萃枣花成熟蜜1000g纯正天然正宗蜂蜜挤压式回流瓶装\n￥59.8￥130\n护大夫轮椅充气胎折叠轻便带坐便老人便携残疾人多功能减震代步车\n￥247￥511\n陈一凡大红袍茶叶 正宗武夷乌龙浓香型新茶 散装乌龙茶袋装200g\n￥59￥100\n张裕先锋爱欧公爵·佳熊干白葡萄酒750ml*6瓶整箱装西班牙进口红酒\n￥196￥318\n潮夫道黄海气冻大虾大号海捕大虾新鲜国产虾大虾冰鲜青虾海虾海鲜\n￥86.9￥310\nMANDU RICH新款豹纹双肩包大容量小众时尚书包通勤百搭上班族背包\n￥35.9￥90\n老人头男士皮靴真皮透气时尚潮流加绒马丁靴加厚底防滑复古工装靴\n￥213￥1298\nLUCKY BRAND行李箱年男女学生新款高颜值拉杆箱结实密码箱旅行箱\n￥148￥519\n酥小炳鹿肉配方肉绒包裹粮猫主粮无谷成幼猫全阶段通用大袋高蛋白\n￥27.9￥118.8\n星火高考英语词汇周计划高中词汇必背速记高考重点单词乱序口袋书\n￥12.8￥33\n红厨煎锅陶瓷不粘锅轻便家用平底锅煎饼煎蛋宝宝辅食锅电磁炉专用\n￥84.1￥410\n华熙生物珂岸精华乳保湿面霜洁面护肤精华乳控油精纯大豆精华乳\n￥49.9￥210\n水密码bb霜正品遮瑕保湿BB霜自然裸妆补水清爽水润带防伪专柜同款\n￥18.5￥69\n德玛贝尔玫瑰软膜粉550g黄金补水保湿滋润清洁面膜涂抹式清美容院\n￥34.93￥159\n彩虹电热毯双人双控调温安全家用学生宿舍单人定时正品加厚电褥子\n￥83.1￥301\n荣事达智能煎药壶自动熬中药电煮锅熬药锅一键定时预约保温电火锅\n￥58￥301\n艾美特电风扇落地扇家用遥控触屏轻音客厅省电大风力宿舍摇头电扇\n￥175.42￥401\nDr.Kong江博士童鞋运动春款魔术贴休闲鞋透气男女儿童宝宝学步鞋\n￥177￥380\n五羊婴儿洗衣皂椰油精华天然透明皂清洁无残留温和护衣不伤手\n￥9.29￥77.98\n安儿乐拉拉裤小轻芯超薄便携婴儿纸尿裤L/XL/XXL/XXXL透气尿不湿\n￥69.9￥162\nA类新疆长绒棉花被纯棉花被子冬被棉絮空调被芯学生宿舍春秋棉被\n￥135￥557\n红豆家纺深睡枕头Pro4.0记忆棉枕芯酒店枕护颈椎助睡眠学生成人枕\n￥48￥176.9\n隐形风扇灯家用一体吊扇灯现代简约客厅餐厅满天星电风扇吊灯\n￥150￥500\n双鱼翻毛皮耐磨篮球成人户外篮球正版中考专用球儿童节生日礼物\n￥46.5￥110\n天火强光手电筒充电超亮远射家用便携应急户外变焦长续航2026新款\n￥96.6￥200\n户外露营躺椅可折叠午休多档坐睡两用懒人可躺可坐月亮椅靠背椅子\n￥39.8￥90\n欧芭洗发水滋养柔顺修护烫染受损保湿控油蓬松持久留香改善毛躁发\n￥70.3￥200\n超人10W大功率黑色剃须刀TYPEC快充便携式全身水洗刮胡须刀正品礼\n￥59.8￥100\n奥兰小红帽爱丽丝干红葡萄酒750ml*6 西班牙进口红酒网红热红酒\n￥96.7￥139\n微信扫码下载\nApp专享优惠\n\n扫描二维码微信关注\n\n扫描二维码下载App\n\n微信扫码免费领取拼多多店铺\n\n联系我们\n\n客服&举报电话：021-53395288\n\n商家热线：021-5339-5088\n\n商家客服服务时间：8:00-20:30\n\n消费者客服服务时间：8:00-23:00\n\n消费者客服外呼号码显示：9541366（仅呼出，不支持呼入）\n\n上海寻梦信息技术有限公司\n\n入驻多多国际校园招聘关于我们帮助中心下载App消费者保障知识产权廉正举报服务协议隐私政策征求意见Investor Relations\nCopyright 2015-2026 pinduoduo.com 版权所有(增值电信业务经营许可证：沪B2-20170215)\n互联网药品信息服务资格证书：（沪）-经营性-2024-0019|网络文化经营许可证：沪网文 [2025] 0529-156 号|药品网络交易服务第三方平台备案：（沪）网药平台备字〔2023〕第000006-002号\n沪公网安备 31010502000392号（沪）网械平台备字[2018]第00003号沪ICP备15010535号-13|营业执照\n全国旅游服务热线：12301"
+    },
+    {
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D16K%25E8%25AF%25AD%25E6%2596%2587%25E4%25BD%259C%25E4%25B8%259A%25E6%259C%25AC5%25E6%259C%25AC&refer_page_name=search_result&refer_page_id=10015_1793008449138_shw7yfc83i&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策"
+    },
+    {
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E5%AD%A6%E7%94%9F%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BE%BF%E5%88%A9%E8%B4%B4%E7%BB%84%E5%90%88",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E5%25AD%25A6%25E7%2594%259F%25E5%25A4%259A%25E5%258A%259F%25E8%2583%25BD%25E4%25BE%25BF%25E5%2588%25A9%25E8%25B4%25B4%25E7%25BB%2584%25E5%2590%2588&refer_page_name=search_result&refer_page_id=10015_1793008459629_golocksfdu&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策"
+    },
+    {
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E4%B8%B2%E4%B8%B2%E4%B9%90%E6%8C%89%E5%8A%A8%E4%B8%AD%E6%80%A7%E7%AC%94%E5%A5%97%E8%A3%85",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E4%25B8%25B2%25E4%25B8%25B2%25E4%25B9%2590%25E6%258C%2589%25E5%258A%25A8%25E4%25B8%25AD%25E6%2580%25A7%25E7%25AC%2594%25E5%25A5%2597%25E8%25A3%2585&refer_page_name=search_result&refer_page_id=10015_1793008469883_95i02bbj5w&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策"
+    },
+    {
+      "requestedUrl": "https://mobile.yangkeduo.com/search_result.html?search_key=%E5%8F%AF%E6%93%A6%E7%AC%9410%E8%8A%AF1%E7%AC%94%E5%A5%97%E8%A3%85",
+      "actualUrl": "https://mobile.yangkeduo.com/login.html?from=https%3A%2F%2Fmobile.yangkeduo.com%2Fsearch_result.html%3Fsearch_key%3D%25E5%258F%25AF%25E6%2593%25A6%25E7%25AC%259410%25E8%258A%25AF1%25E7%25AC%2594%25E5%25A5%2597%25E8%25A3%2585&refer_page_name=search_result&refer_page_id=10015_1793008480231_6h2h0tz1dc&refer_page_sn=10015",
+      "httpStatus": 200,
+      "title": "登录",
+      "pageText": "手机登录\n扫码登录\n平台用户信息安全由\n中国人寿财险\n承保\n发送验证码\n登录\n返回\n\n同意服务协议与隐私政策"
+    },
+    {
+      "requestedUrl": "https://www.pinduoduo.com/?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "actualUrl": "https://www.pinduoduo.com/?search_key=16K%E8%AF%AD%E6%96%87%E4%BD%9C%E4%B8%9A%E6%9C%AC5%E6%9C%AC",
+      "httpStatus": 200,
+      "title": "拼多多 新电商开创者",
+      "pageText": "首页拼多多商家入驻热点资讯社会招聘校园招聘招采平台帮助中心举报平台分享赚钱查快递\n简体中文\n精彩活动\n更多 >\n精选专题\n更多 >\nOWOX 2026年秋季新款流行色短款卫衣外套花纱面料拉链开衫上衣\n￥116￥239.9\n库思玛高腰黑色微喇叭牛仔裤女秋季新款百搭垂感显瘦不贴腿拖地裤\n￥79.8￥200\n秋冬款加绒加厚中老年妈妈休闲可搭配棉裤裤子妈妈高档老奶奶高腰\n￥48.8￥157\n马克华菲连帽夹克男士2026春秋款户外运动潮流宽松休闲工装上衣服\n￥209￥559\n【纯棉磨毛】红豆春秋亲肤透气柔软轻薄经典格纹衬衣舒适长袖衬衫\n￥133￥799\n唐狮重磅雪尼尔弯刀裤男灯芯绒直筒裤春秋季男士宽松大码休闲长裤\n￥79.9￥419\n中粮蜂蜜山萃枣花成熟蜜1000g纯正天然正宗蜂蜜挤压式回流瓶装\n￥59.8￥130\nOVOLOOK透明片柔软贴合CONF系列小直径透明隐形眼镜2片装半年抛\n￥18.8￥80.9\n汤膳师大麦茶500g正宗炒熟原味大麦茶饭店同款浓香型麦芽茶养生茶\n￥13.3￥41\n陈一凡大红袍茶叶 正宗武夷乌龙浓香型新茶 散装乌龙茶袋装200g\n￥59￥100\n张裕先锋爱欧公爵·佳熊干白葡萄酒750ml*6瓶整箱装西班牙进口红酒\n￥196￥318\n燕之坊免浸泡十色糙米七色糙米10斤糙米热卖组合低脂五谷杂粮主食\n￥66.9￥110.89\n361°户外双肩包大容量可折叠登山徒步背包女百搭旅行包休闲运动包\n￥79￥180.8\n老人头男士皮靴真皮透气时尚潮流加绒马丁靴加厚底防滑复古工装靴\n￥213￥1298\n丹尼熊托特包包女式新款秋冬韩系复古时尚手提包大容量通勤单肩包\n￥31.9￥65.9\n酥小炳鹿肉配方肉绒包裹粮猫主粮无谷成幼猫全阶段通用大袋高蛋白\n￥27.9￥118.8\n星火高考英语词汇周计划高中词汇必背速记高考重点单词乱序口袋书\n￥12.8￥33\n赫巴兹304不锈钢不粘锅炒锅家用炒菜锅电磁炉燃气灶通用平底锅具\n￥188￥699\n【70g】玉泽皮肤屏障修护保湿霜50g干敏面霜乳霜套装补水维稳\n￥59.9￥191\n花王碧柔洁面泡泡氨基酸洗面奶泡沫温和不紧绷快速清洁宿舍好物\n￥29.69￥101\n德玛贝尔玫瑰软膜粉550g黄金补水保湿滋润清洁面膜涂抹式清美容院\n￥34.93￥159\n荣事达智能煎药壶自动熬中药电煮锅熬药锅一键定时预约保温电火锅\n￥58￥301\n海尔电风扇家用落地扇蓝牙智能语音静卧室大风力26年新款双叶风扇\n￥236￥440\n美的低糖电饭煲4L家用智能抗菌多功能智能预约一级抗菌内胆电饭锅\n￥277.5￥330\n安儿乐拉拉裤小轻芯超薄便携婴儿纸尿裤L/XL/XXL/XXXL透气尿不湿\n￥69.9￥162\n植物妈妈一次性洗脸巾婴儿宝宝专用加大加厚绵柔巾官方正品旗舰店\n￥24.8￥100.9\nMINIDOLL迷你多天官赐福动画官方正版天使恶魔圆滚滚毛绒挂件\n￥42.9￥70\nA类新疆长绒棉花被纯棉花被子冬被棉絮空调被芯学生宿舍春秋棉被\n￥135￥557\n北极星夜光钟表挂钟客厅时尚轻奢现代简约石英钟挂墙挂表家用时钟\n￥55.14￥198\n美的护眼小台灯学生宿舍学习专用大学卧室床头阅读灯可折叠充电款\n￥61.9￥101.9\n天火强光手电筒充电超亮远射家用便携应急户外变焦长续航2026新款\n￥96.6￥200\n双鱼正品乒乓球拍麒麟风4F专业级比赛考试成人学生专用成品拍套装\n￥59￥170\nPEAK匹克秋季新款运动长袖男华夫格插肩撞线条美式网球风套头卫衣\n￥77.7￥200\n闪钻侧柏叶柔顺洗发露控油去屑防脱固发修护毛躁滋养发根焕亮秀发\n￥68.99￥101\n【小鬼-王琳凯同款】小迷糊氨基酸温润净颜洁面乳清洁洗面奶男女\n￥19.89￥80.9\n爱国者T351蓝牙音响便携无线超重低音炮高音质户外大功率插卡音箱\n￥128.89￥280\n微信扫码下载\nApp专享优惠\n\n扫描二维码微信关注\n\n扫描二维码下载App\n\n微信扫码免费领取拼多多店铺\n\n联系我们\n\n客服&举报电话：021-53395288\n\n商家热线：021-5339-5088\n\n商家客服服务时间：8:00-20:30\n\n消费者客服服务时间：8:00-23:00\n\n消费者客服外呼号码显示：9541366（仅呼出，不支持呼入）\n\n上海寻梦信息技术有限公司\n\n入驻多多国际校园招聘关于我们帮助中心下载App消费者保障知识产权廉正举报服务协议隐私政策征求意见Investor Relations\nCopyright 2015-2026 pinduoduo.com 版权所有(增值电信业务经营许可证：沪B2-20170215)\n互联网药品信息服务资格证书：（沪）-经营性-2024-0019|网络文化经营许可证：沪网文 [2025] 0529-156 号|药品网络交易服务第三方平台备案：（沪）网药平台备字〔2023〕第000006-002号\n沪公网安备 31010502000392号（沪）网械平台备字[2018]第00003号沪ICP备15010535号-13|营业执照\n全国旅游服务热线：12301"
+    }
+  ],
+  "nextSteps": [
+    "由操作者在消费者端自行完成登录/人机验证后，重新访问四个 search_result.html 地址，读取搜索结果并逐条打开商品详情核对 SKU 与结算前售价。",
+    "若网页端仍要求 App，则在拼多多 App 内按原关键词搜索，以具体商品详情页所选 SKU 显示价格为准；本次未执行登录、验证或购买。"
+  ]
+}

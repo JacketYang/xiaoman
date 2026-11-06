@@ -1,0 +1,347 @@
+{
+  "elements": [
+    {
+      "tag": "HTML",
+      "cls": "",
+      "text": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "html": "<html lang=\"zh-Hans\" data-theme=\"light\"><head><meta charset=\"utf-8\"><script>!function(t){var e=t._plt=t._plt||[];e.push([\"tm\",\"ps\",+new Date]),(t.requestAnimationFrame||t.webkitRequestAnimationFrame||t.setTimeout)(function(){e.push([\"tm\",\"fraf\",+new Date])})}(window);!function(){if(\"PerformanceLongTaskTiming\" in window){var g=window.__tti={e:[]};g.o=new PerformanceObserver(function(l){g.e=g.e.concat(l.getEntries())});g.o.observe({entryTypes:[\"longtask\"]})}}();!function(){var e,t,n,i,r={passive:!0,capture:!0},a=new Date,o=function(){i=[],t=-1,e=null,f(addEventListener)},c=function(i,r){e||(e=r,t=i,n=new Date,f(removeEventListener),u())},u=function(){if(t>=0&&t<n-a){var r={entryType:\"first-input\",name:e.type,target:e.target,cancelable:e.cancelable,startTime:e.timeStamp,processingStart:e.timeStamp+t};i.forEach((function(e){e(r)})),i=[]}},s=function(e){if(e.cancelable){var t=(e.timeStamp>1e12?new Date:performance.now())-e.timeStamp;\"pointerdown\"==e.type?function(e,t){var n=function(){c(e,t),a()},i=function(){a()},a=function(){removeEventListener(\"pointerup\",n,r),removeEventListener(\"pointercancel\",i,r)};addEventListener(\"pointerup\",n,r),addEventListener(\"pointercancel\",i,r)}(t,e):c(t,e)}},f=function(e){[\"mousedown\",\"keydown\",\"touchstart\",\"pointerdown\"].forEach((function(t){return e(t,s,r)}))},p=\"hidden\"===document.visibilityState?0:1/0;addEventListener(\"visibilitychange\",(function e(t){\"hidden\"===document.visibilityState&&(p=t.timeStamp,removeEventListener(\"visibilitychange\",e,!0))}),!0);o(),self.webVitals={firstInputPolyfill:function(e){i.push(e),u()},resetFirstInputPolyfill:o"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "16K语文作业本5本\n商品\n综合\n销量\n价格\n品牌\n筛选\n11.11大促\n翻页方式\n纸张克重\n适用年龄\n适用人群\n适用年级\n适用场合\n装订方式\n产品类型\n16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件\n课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件\n16K大本作业本中小学生护\n近45天100%好评\n¥\n5\n.71\n全店总售431万+件\n至尚16K作业笔记本语文数\n1365人收藏\n立减1元\n券后\n¥\n6\n",
+      "html": "<div id=\"main\"><div class=\"_3G5dmH-Z\"><div class=\"_2HAXrP0W\" style=\"display: none;\"></div><div class=\"_1DncS32V\"><div class=\"_7kAYEyu4\"><div class=\"_3cEsXABE\"><svg viewBox=\"0 0 512 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" class=\"_1H06oEI0\"><path d=\"M525.89 1021.75a24.63 24.63 0 0 1-17.21-7L8.51 529.45a24.72 24.72 0 0 1 0-35.48L508.68 8.64a24.72 24.72 0 0 1 34.42 35.49L61.21 511.71l481.9 467.59a24.72 24.72 0 0 1-17.21 42.46z m0 0\" fill=\"#9c9c9c\"></path></svg><div class=\"_3Nw7PW_X _3-xVn9Qo\"><div class=\"_3oOM3OKF\"><div class=\"_2gTyX8PN\"><span class=\"_3rOGJ4Ja\"><div class=\"nXACk49O\" style=\"max-width: 1.9rem;\">16K语文作业本5本</div><span class=\"_2VOVlYkh\"></span><svg class=\"_2VOVlYkh\" viewBox=\"0 0 1024 1024\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"200\" height=\"200\" style=\"overflow: initial;\"><path d=\"M624.10827 511.996481l375.931278-373.359185c31.939451-31.720125 31.939451-83.127957 0-114.848082-31.940624-31.720125-83.705006-31.720125-115.64563 0l-372.396264 369.828863L139.600218 23.789214c-31.939451-31.720125-83.705006-31.720125-115.644457 0s-31.939451 83.127957 0 114.848082l375.931277 373.359185L23.955761 885.355667c-31.939451 31.720125-31.939451 83.127957 0 114.848082 15.969725 15.859476 36.895977 23.790387 57.822229 23.790387s41.852503-7.929738 57.822228-23.790387l372.397436-369.828863 372.397436 369.828863c15.969725 15.859476 36.895977 23.790387 57.822229 23.790387s41.852503-7.929738 57.822229-23.790387c31.939451-31.720125 31.939451-83.127957 0-114.848082L624.10827 511.996481z\" fill=\"#fff\"></path></svg></span></div></div><div class=\"_3NozHHbx _2Bhbn"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "综合\n销量\n价格\n品牌\n筛选\n11.11大促\n翻页方式\n纸张克重\n适用年龄\n适用人群\n适用年级\n适用场合\n装订方式\n产品类型\n16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件\n课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件\n16K大本作业本中小学生护\n近45天100%好评\n¥\n5\n.71\n全店总售431万+件\n至尚16K作业笔记本语文数\n1365人收藏\n立减1元\n券后\n¥\n6\n.49\n全店总售431万+件",
+      "html": "<div><div><div style=\"min-height: 1005px;\"><div><div><div class=\"_3jA6PTv9\" style=\"display: none;\"></div><div style=\"display: none; height: 165px;\"></div><div class=\"\"><div class=\"_18Mk2yFO\"><div class=\"_1xKtLcOh\"><div class=\"eGtKhQfp\" data-uniqid=\"1\"><span class=\"trnhrk5o\"><span>综合</span><i class=\"_3bE3AJoa trnhrk5o\"></i></span></div><div class=\"_1oxOLFFZ eGtKhQfp\">销量</div><div class=\"eGtKhQfp\">价格<div class=\"_3XbggFoU\"><i class=\"_2A1RhswG\"></i><i class=\"_1GBcYX8p\"></i></div></div><div class=\"_1oxOLFFZ eGtKhQfp\">品牌</div><div class=\"zG9pfK84\"></div><span class=\"eGtKhQfp\"><span class=\"_1zv16gR7\">筛选</span><i class=\"_2igCi6tW\"></i></span></div><div class=\"cjKxu2mO\"><div class=\"_1ItJb9hy\"></div><div class=\"_2KdSmaAp\"><div class=\"_1LqXjtRk _2yiHEQmY\" style=\"height: 556.36px;\"><div class=\"_2iaVhUD1\"><div class=\"ighS1qeQ\" data-scroll=\"true\"><div class=\"x9MQ5Sxq e3PKKUow\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">价格区间</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">精选服务</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 143px; transform-origin: left center; transform: scale(0.916084); overflow: hidden;\"><span class=\"\">商品发货地</span></div></div></div></d"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "综合\n销量\n价格\n品牌\n筛选\n11.11大促\n翻页方式\n纸张克重\n适用年龄\n适用人群\n适用年级\n适用场合\n装订方式\n产品类型\n16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件\n课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件\n16K大本作业本中小学生护\n近45天100%好评\n¥\n5\n.71\n全店总售431万+件\n至尚16K作业笔记本语文数\n1365人收藏\n立减1元\n券后\n¥\n6\n.49\n全店总售431万+件",
+      "html": "<div><div style=\"min-height: 1005px;\"><div><div><div class=\"_3jA6PTv9\" style=\"display: none;\"></div><div style=\"display: none; height: 165px;\"></div><div class=\"\"><div class=\"_18Mk2yFO\"><div class=\"_1xKtLcOh\"><div class=\"eGtKhQfp\" data-uniqid=\"1\"><span class=\"trnhrk5o\"><span>综合</span><i class=\"_3bE3AJoa trnhrk5o\"></i></span></div><div class=\"_1oxOLFFZ eGtKhQfp\">销量</div><div class=\"eGtKhQfp\">价格<div class=\"_3XbggFoU\"><i class=\"_2A1RhswG\"></i><i class=\"_1GBcYX8p\"></i></div></div><div class=\"_1oxOLFFZ eGtKhQfp\">品牌</div><div class=\"zG9pfK84\"></div><span class=\"eGtKhQfp\"><span class=\"_1zv16gR7\">筛选</span><i class=\"_2igCi6tW\"></i></span></div><div class=\"cjKxu2mO\"><div class=\"_1ItJb9hy\"></div><div class=\"_2KdSmaAp\"><div class=\"_1LqXjtRk _2yiHEQmY\" style=\"height: 556.36px;\"><div class=\"_2iaVhUD1\"><div class=\"ighS1qeQ\" data-scroll=\"true\"><div class=\"x9MQ5Sxq e3PKKUow\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">价格区间</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">精选服务</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 143px; transform-origin: left center; transform: scale(0.916084); overflow: hidden;\"><span class=\"\">商品发货地</span></div></div></div></div><d"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "综合\n销量\n价格\n品牌\n筛选\n11.11大促\n翻页方式\n纸张克重\n适用年龄\n适用人群\n适用年级\n适用场合\n装订方式\n产品类型\n16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件\n课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件\n16K大本作业本中小学生护\n近45天100%好评\n¥\n5\n.71\n全店总售431万+件\n至尚16K作业笔记本语文数\n1365人收藏\n立减1元\n券后\n¥\n6\n.49\n全店总售431万+件",
+      "html": "<div style=\"min-height: 1005px;\"><div><div><div class=\"_3jA6PTv9\" style=\"display: none;\"></div><div style=\"display: none; height: 165px;\"></div><div class=\"\"><div class=\"_18Mk2yFO\"><div class=\"_1xKtLcOh\"><div class=\"eGtKhQfp\" data-uniqid=\"1\"><span class=\"trnhrk5o\"><span>综合</span><i class=\"_3bE3AJoa trnhrk5o\"></i></span></div><div class=\"_1oxOLFFZ eGtKhQfp\">销量</div><div class=\"eGtKhQfp\">价格<div class=\"_3XbggFoU\"><i class=\"_2A1RhswG\"></i><i class=\"_1GBcYX8p\"></i></div></div><div class=\"_1oxOLFFZ eGtKhQfp\">品牌</div><div class=\"zG9pfK84\"></div><span class=\"eGtKhQfp\"><span class=\"_1zv16gR7\">筛选</span><i class=\"_2igCi6tW\"></i></span></div><div class=\"cjKxu2mO\"><div class=\"_1ItJb9hy\"></div><div class=\"_2KdSmaAp\"><div class=\"_1LqXjtRk _2yiHEQmY\" style=\"height: 556.36px;\"><div class=\"_2iaVhUD1\"><div class=\"ighS1qeQ\" data-scroll=\"true\"><div class=\"x9MQ5Sxq e3PKKUow\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">价格区间</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 131px; transform-origin: left center; transform: scale(1); overflow: hidden;\"><span class=\"\">精选服务</span></div></div></div></div><div class=\"x9MQ5Sxq\"><div class=\"_1alio1CX\"><div class=\"_2u4gEhMf _1m6hMTcU\" style=\"width: 131px;\"><div style=\"width: 143px; transform-origin: left center; transform: scale(0.916084); overflow: hidden;\"><span class=\"\">商品发货地</span></div></div></div></div><div cl"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2Sw_cZde ",
+      "text": "16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件\n课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件\n16K大本作业本中小学生护\n近45天100%好评\n¥\n5\n.71\n全店总售431万+件\n至尚16K作业笔记本语文数\n1365人收藏\n立减1元\n券后\n¥\n6\n.49\n全店总售431万+件\n16K大本子牛皮纸缝线笔记\n券后\n¥\n12\n.8\n本店已拼12.1万+件\n16K练习本中小学生专用护\n立减3元\n退货包运费\n",
+      "html": "<div class=\"_2Sw_cZde \"><div class=\"_2Wah34Ix\"><div class=\"_3glhOBhU\" data-uniqid=\"50\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-24/b5383e67-418e-4720-8b8f-ef90634a724e.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K牛皮纸语文本小学生专</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">24小时内30+人拼单</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div></div></div></div></div><div class=\"_3glhOBhU\" data-uniqid=\"51\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><d"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3glhOBhU",
+      "text": "16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div class=\"_3glhOBhU\" data-uniqid=\"50\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-24/b5383e67-418e-4720-8b8f-ef90634a724e.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K牛皮纸语文本小学生专</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">24小时内30+人拼单</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-24/b5383e67-418e-4720-8b8f-ef90634a724e.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K牛皮纸语文本小学生专</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">24小时内30+人拼单</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "rjNMXsUm _1unt3Js-",
+      "text": "16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-24/b5383e67-418e-4720-8b8f-ef90634a724e.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K牛皮纸语文本小学生专</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">24小时内30+人拼单</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1iyBHIt5",
+      "text": "16K牛皮纸语文本小学生专\n24小时内30+人拼单\n券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K牛皮纸语文本小学生专</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">24小时内30+人拼单</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1AsY9c6Q",
+      "text": "券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3jfL0KIq",
+      "text": "券后\n¥\n3\n.69\n本店已拼4127件",
+      "html": "<div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.69</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2u4gEhMf",
+      "text": "本店已拼4127件",
+      "html": "<div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "本店已拼4127件",
+      "html": "<div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼4127件</span></div>"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "本店已拼4127件",
+      "html": "<span class=\"\">本店已拼4127件</span>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3glhOBhU",
+      "text": "课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div class=\"_3glhOBhU\" data-uniqid=\"51\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-05/db90ec99-cd05-449b-9ecd-4d84447b6380.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">课文本16K大本牛皮本语文</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">未发货秒退</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品发票</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-05/db90ec99-cd05-449b-9ecd-4d84447b6380.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">课文本16K大本牛皮本语文</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">未发货秒退</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品发票</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "rjNMXsUm _1unt3Js-",
+      "text": "课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-05/db90ec99-cd05-449b-9ecd-4d84447b6380.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">课文本16K大本牛皮本语文</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">未发货秒退</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品发票</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1iyBHIt5",
+      "text": "课文本16K大本牛皮本语文\n未发货秒退\n正品发票\n券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">课文本16K大本牛皮本语文</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">未发货秒退</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品发票</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1AsY9c6Q",
+      "text": "券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3jfL0KIq",
+      "text": "券后\n¥\n3\n.91\n本店已拼32.7万+件",
+      "html": "<div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.91</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2u4gEhMf",
+      "text": "本店已拼32.7万+件",
+      "html": "<div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "本店已拼32.7万+件",
+      "html": "<div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.875536); overflow: hidden;\"><span class=\"\">本店已拼32.7万+件</span></div>"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "本店已拼32.7万+件",
+      "html": "<span class=\"\">本店已拼32.7万+件</span>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3glhOBhU",
+      "text": "16K大本子牛皮纸缝线笔记\n券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div class=\"_3glhOBhU\" data-uniqid=\"54\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/open-gw/2026-08-03/254d7cbc-04e1-417b-94fa-990dc8cb0275.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K大本子牛皮纸缝线笔记</div><div class=\"_2CzfmA6g\"></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "16K大本子牛皮纸缝线笔记\n券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/open-gw/2026-08-03/254d7cbc-04e1-417b-94fa-990dc8cb0275.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K大本子牛皮纸缝线笔记</div><div class=\"_2CzfmA6g\"></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "rjNMXsUm _1unt3Js-",
+      "text": "16K大本子牛皮纸缝线笔记\n券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/open-gw/2026-08-03/254d7cbc-04e1-417b-94fa-990dc8cb0275.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K大本子牛皮纸缝线笔记</div><div class=\"_2CzfmA6g\"></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1iyBHIt5",
+      "text": "16K大本子牛皮纸缝线笔记\n券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K大本子牛皮纸缝线笔记</div><div class=\"_2CzfmA6g\"></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1AsY9c6Q",
+      "text": "券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3jfL0KIq",
+      "text": "券后\n¥\n12\n.8\n本店已拼12.1万+件",
+      "html": "<div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">券后</span><span class=\"_3f_Cp5GQ\">¥</span><span>12</span><span class=\"_2aP8LGPL\">.8</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2u4gEhMf",
+      "text": "本店已拼12.1万+件",
+      "html": "<div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 199px;\"><div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "本店已拼12.1万+件",
+      "html": "<div style=\"width: 233px; transform-origin: left bottom; transform: scale(0.854077); overflow: hidden;\"><span class=\"\">本店已拼12.1万+件</span></div>"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "本店已拼12.1万+件",
+      "html": "<span class=\"\">本店已拼12.1万+件</span>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3glhOBhU",
+      "text": "16K练习本中小学生专用护\n立减3元\n退货包运费\n新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div class=\"_3glhOBhU\" data-uniqid=\"55\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-16/4b44daa7-cc5c-4fe4-bd28-38fa9c7b7afb.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K练习本中小学生专用护</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\"><img src=\"https://promotion-1.pddpic.com/promo/index/b278bc54-3d10-4d94-bef3-bafd812b3f53.png?imageView2/2/w/1300/q/80/format/webp\" style=\"height: 0.12rem; width: 0.12rem; position: relative; top: 0.01rem; margin-right: 0.01rem;\" data-cui-retry-count=\"0\">立减3元</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(37, 181, 19);\">退货包运费</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.1"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "16K练习本中小学生专用护\n立减3元\n退货包运费\n新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-16/4b44daa7-cc5c-4fe4-bd28-38fa9c7b7afb.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K练习本中小学生专用护</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\"><img src=\"https://promotion-1.pddpic.com/promo/index/b278bc54-3d10-4d94-bef3-bafd812b3f53.png?imageView2/2/w/1300/q/80/format/webp\" style=\"height: 0.12rem; width: 0.12rem; position: relative; top: 0.01rem; margin-right: 0.01rem;\" data-cui-retry-count=\"0\">立减3元</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(37, 181, 19);\">退货包运费</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hi"
+    },
+    {
+      "tag": "DIV",
+      "cls": "rjNMXsUm _1unt3Js-",
+      "text": "16K练习本中小学生专用护\n立减3元\n退货包运费\n新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img src=\"https://img-2.pddpic.com/mms-goods-image/2026-09-16/4b44daa7-cc5c-4fe4-bd28-38fa9c7b7afb.jpeg.a.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-cui-retry-count=\"0\"></div><div class=\"vKFAnz9T\" style=\"position: absolute; bottom: 0px; right: 0px;\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K练习本中小学生专用护</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\"><img src=\"https://promotion-1.pddpic.com/promo/index/b278bc54-3d10-4d94-bef3-bafd812b3f53.png?imageView2/2/w/1300/q/80/format/webp\" style=\"height: 0.12rem; width: 0.12rem; position: relative; top: 0.01rem; margin-right: 0.01rem;\" data-cui-retry-count=\"0\">立减3元</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(37, 181, 19);\">退货包运费</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1iyBHIt5",
+      "text": "16K练习本中小学生专用护\n立减3元\n退货包运费\n新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\">16K练习本中小学生专用护</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\"><img src=\"https://promotion-1.pddpic.com/promo/index/b278bc54-3d10-4d94-bef3-bafd812b3f53.png?imageView2/2/w/1300/q/80/format/webp\" style=\"height: 0.12rem; width: 0.12rem; position: relative; top: 0.01rem; margin-right: 0.01rem;\" data-cui-retry-count=\"0\">立减3元</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(37, 181, 19);\">退货包运费</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼879件</span></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1AsY9c6Q",
+      "text": "新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼879件</span></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3jfL0KIq",
+      "text": "新客\n¥\n1\n.96\n本店已拼879件",
+      "html": "<div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_2nKWnaqa\">新客</span><span class=\"_3f_Cp5GQ\">¥</span><span>1</span><span class=\"_2aP8LGPL\">.96</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼879件</span></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2u4gEhMf",
+      "text": "本店已拼879件",
+      "html": "<div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 204px;\"><div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼879件</span></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "本店已拼879件",
+      "html": "<div style=\"width: 204px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼879件</span></div>"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "本店已拼879件",
+      "html": "<span class=\"\">本店已拼879件</span>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3glhOBhU",
+      "text": "16k加厚语\n899人收藏\n假一赔十\n正品险\n¥\n3\n.35\n本店已拼7万件",
+      "html": "<div class=\"_3glhOBhU\" data-uniqid=\"56\" style=\"width: 1.86rem; margin-right: 0.03rem; margin-bottom: 0.03rem;\"><div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img class=\"pdd-lazy-image\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-src=\"https://img-2.pddpic.com/open-gw/2026-04-20/e9893f95-9f75-4d9c-8cb9-094227d99639.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" data-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\"><img src=\"https://img-2.pddpic.com/aid-image/brand_black_label_combine/d20a2ba4d88f4edf841db28761ca4c76.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\"><img src=\"https://promotion-1.pddpic.com/promo/index/962149d1-b03a-47fb-be05-7f289e14ed3b.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\">16k加厚语</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">899人收藏</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">假一赔十</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品险</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "16k加厚语\n899人收藏\n假一赔十\n正品险\n¥\n3\n.35\n本店已拼7万件",
+      "html": "<div><div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img class=\"pdd-lazy-image\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-src=\"https://img-2.pddpic.com/open-gw/2026-04-20/e9893f95-9f75-4d9c-8cb9-094227d99639.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" data-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\"><img src=\"https://img-2.pddpic.com/aid-image/brand_black_label_combine/d20a2ba4d88f4edf841db28761ca4c76.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\"><img src=\"https://promotion-1.pddpic.com/promo/index/962149d1-b03a-47fb-be05-7f289e14ed3b.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\">16k加厚语</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">899人收藏</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">假一赔十</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品险</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.35</spa"
+    },
+    {
+      "tag": "DIV",
+      "cls": "rjNMXsUm _1unt3Js-",
+      "text": "16k加厚语\n899人收藏\n假一赔十\n正品险\n¥\n3\n.35\n本店已拼7万件",
+      "html": "<div class=\"rjNMXsUm _1unt3Js-\" style=\"width: 1.86rem;\"><div class=\"LOFjVUas\"><div class=\"_1o7l_Qm- _1Ypo6_FE _2Ahe7xER\" style=\"width: 1.86rem; height: 1.86rem;\"><img class=\"pdd-lazy-image\" style=\"background-color: rgb(255, 255, 255); width: 1.86rem; height: 1.86rem;\" data-src=\"https://img-2.pddpic.com/open-gw/2026-04-20/e9893f95-9f75-4d9c-8cb9-094227d99639.jpeg?imageMogr2/thumbnail/500x%7CimageView2/2/w/500/q/90/format/webp\" data-retry-count=\"0\"></div></div><div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\"><img src=\"https://img-2.pddpic.com/aid-image/brand_black_label_combine/d20a2ba4d88f4edf841db28761ca4c76.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\"><img src=\"https://promotion-1.pddpic.com/promo/index/962149d1-b03a-47fb-be05-7f289e14ed3b.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\">16k加厚语</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">899人收藏</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">假一赔十</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品险</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.35</span></s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1iyBHIt5",
+      "text": "16k加厚语\n899人收藏\n假一赔十\n正品险\n¥\n3\n.35\n本店已拼7万件",
+      "html": "<div class=\"_1iyBHIt5\"><div class=\"_3ANzdjkc _2kQI8OPk\" style=\"margin-bottom: 0.03rem; height: 0.18rem;\"><img src=\"https://img-2.pddpic.com/aid-image/brand_black_label_combine/d20a2ba4d88f4edf841db28761ca4c76.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\"><img src=\"https://promotion-1.pddpic.com/promo/index/962149d1-b03a-47fb-be05-7f289e14ed3b.png?imageView2/2/w/1300/q/80/format/webp\" class=\"_3fEq-XLr\" style=\"height: 0.15rem; top: 0.01rem;\" data-cui-retry-count=\"0\">16k加厚语</div><div class=\"_2CzfmA6g\"><div class=\"_299OVZvt\"><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(224, 46, 36);\">899人收藏</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">假一赔十</div><div class=\"_2OP4vH_6\" style=\"margin-right: 0.06rem; margin-bottom: 0.02rem; color: rgb(156, 156, 156);\">正品险</div></div></div><div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.35</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 217px;\"><div style=\"width: 217px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼7万件</span></div></div></div><div class=\"bdBYnVlD\"><div class=\"_1UBkv9hu\"><div class=\"_1kCCxWJk _1et1XRkd _1RVvo_G6\" style=\"z-index: 0; width: 0.2rem; height: 0.2rem;\"><img class=\"pdd-lazy-image _2_aTccLU\" data-src=\"https://avatar3-1.pddpic.com/a/Q0dJ"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_1AsY9c6Q",
+      "text": "¥\n3\n.35\n本店已拼7万件",
+      "html": "<div class=\"_1AsY9c6Q\"><div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.35</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 217px;\"><div style=\"width: 217px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼7万件</span></div></div></div><div class=\"bdBYnVlD\"><div class=\"_1UBkv9hu\"><div class=\"_1kCCxWJk _1et1XRkd _1RVvo_G6\" style=\"z-index: 0; width: 0.2rem; height: 0.2rem;\"><img class=\"pdd-lazy-image _2_aTccLU\" data-src=\"https://avatar3-1.pddpic.com/a/Q0dJNjlEa3NBSDVPNnZQMyswOTkwYU1QaVhDUlpXTmZVQT09djA0-1776751718?imageMogr2/thumbnail/100x\" data-retry-count=\"0\"><div class=\"_3hsjrlFQ\" style=\"box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px;\"></div></div></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_3jfL0KIq",
+      "text": "¥\n3\n.35\n本店已拼7万件",
+      "html": "<div class=\"_3jfL0KIq\"><div class=\"_3gmVc4Lg\"><span class=\"_3_U04GgA\"><span class=\"_3f_Cp5GQ\">¥</span><span>3</span><span class=\"_2aP8LGPL\">.35</span></span></div><div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 217px;\"><div style=\"width: 217px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼7万件</span></div></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "_2u4gEhMf",
+      "text": "本店已拼7万件",
+      "html": "<div class=\"_2u4gEhMf\" style=\"margin-left: 0.04rem; font-size: 0.13rem; width: 217px;\"><div style=\"width: 217px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼7万件</span></div></div>"
+    },
+    {
+      "tag": "DIV",
+      "cls": "",
+      "text": "本店已拼7万件",
+      "html": "<div style=\"width: 217px; transform-origin: left bottom; transform: scale(1); overflow: hidden;\"><span class=\"\">本店已拼7万件</span></div>"
+    }
+  ],
+  "scripts": [
+    "window.__NAVIGATION_MAP__ = {\"download.html\":\"matthew_download.html\",\"market_download.html\":\"undefined.html\",\"down_market_download.html\":\"undefined.html\",\"comm_order_snapshot.html\":\"undefined.html\",\"miff_transplantation_pretence.html\":\"refresh_slew_forlorn.html\",\"group185.html\":\"group186.html\",\"pjlkvgcf.html\":\"transac_virtual_card_pwd.html\",\"ddplteec.html\":\"transac_virtual_card_pwd.html\",\"svideo_personal.html\":\"fyxmkief.html?page_key=1\",\"goods_express.html\":\"psnl_goods_help.html?_t_module_name=goods_express\",\"search_view.html\":\"relative_goods.html?__rp_name=search_view\"};window.__CMT_AMPLIFY_RATE__ = 1;window.__ERROR_SAMPLE_RATE__ = 1;window.__CMT_HOST__ = \"cmtw.pinduoduo.com\";window.__CDN_IMG__ = {\"useIpFallback\":true,\"retryLimit\":3,\"backupDomainConfigMap\":{\"dl.pddpic.com\":{\"dl-1.pddpic.com\":50,\"dl-2.pddpic.com\":50},\"t00img.yangkeduo.com\":{\"img-1.pddpic.com\":30,\"img-2.pddpic.com\":30,\"img-3.pddpic.com\":20,\"img-4.pddpic.com\":20},\"t13img.yangkeduo.com\":{\"promotion-1.pddpic.com\":50,\"promotion-2.pddpic.com\":30,\"promotion-3.pddpic.com\":20},\"t20img.yangkeduo.com\":{\"avatar2-1.pddpic.com\":45,\"avatar2-2.pddpic.com\":45,\"avatar2-3.pddpic.com\":10},\"t22img.yangkeduo.com\":{\"review-1.pddpic.com\":50,\"review-2.pddpic.com\":50,\"review-3.pddpic.com\":0},\"images.pinduoduo.com\":{\"images-1.pinduoduo.com\":60,\"images-2.pinduoduo.com\":40},\"img.pddpic.com\":{\"img-1.pddpic.com\":30,\"img-2.pddpic.com\":30,\"img-3.pddpic.com\":20,\"img-4.pddpic.com\":20},\"t04img.yangkeduo.com\":{\"t04img-b.yangkeduo.com\":100},\"commimg.pddpic.com\":{\"commimg-1.pddpic.com\":50,\"commimg-2.pddpic.com\":50},\"promotion.pddpic.com\":{\"promotion-1.pddpic.com\":50,\"promotion-2.pddpic.com\":30,\"promotion-3.pddpic.com\":20},\"funimg.pddpic.com\":{\"funimg-1.pddpic.com\":50,\"funimg-2.pddpic.com\":50},\"avatar.pddpic.com\":{\"avatar-b.pddpic.com\":100},\"avatar2.pddpic.com\":{\"avatar2-1.pddpic.com\":50,\"avatar2-2.pddpic.com\":50},\"avatar3.pddpic.com\":{\"avatar3-1.pddpic.com\":50,\"avatar3-2.pddpic.com\":50},\"review.pddpic.com\":{\"review-1.pddpic.com\":50,\"review-2.pddpic.com\":50,\"review-3.pddpic.com\":0}}};window.__GLOBAL_LEO_CONFIG__ = {\"universalLinkDomain\":{\"value\":\"app1.yangkeduo.com\"}};window.__ERROR_FILTER_LIST__ = {\"filterList\":[{\"fields\":{\"errorMsg\":\"call native .*:.* cost over 1000ms\"}},{\"fields\":{\"errorMsg\":\"initShareAndMenu 调用超时\"}},{\"fields\":{\"errorMsg\":\"unknown biz error\",\"errorCode\":\"40001|54001\"}},{\"fields\":{\"errorMsg\":\"native login modal error\",\"errorCode\":\"60006\"}},{\"fields\":{\"errorMsg\":\"Cannot convert undefined or null to object\"}},{\"fields\":{\"errorMsg\":\"config:fail:\",\"platform\":\"qq\"}},{\"fields\":{\"errorMsg\":\"Request failed with status code 429|403\"}},{\"fields\":{\"errorMsg\":\"唤起App失败，安装状态.*installed.*false\"}},{\"fields\":{\"errorMsg\":\"callNative JSUIControl disableSwipeBack error: 60015\",\"pagePath\":\"/classification.html|/|/portal.html\"},\"sampleRate\":0.01},{\"fields\":{\"errorMsg\":\"分享规则初始化失败\",\"pagePath\":\"/search_result.html|/classification.html|/index.html|/search_network_clear.html\"},\"sampleRate\":0.01},{\"fields\":{\"errorMsg\":\"^unsupported_platform$\"}},{\"fields\":{\"errorMsg\":\"Can't find variable: .*\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"DTS_PDD_MOBILE_LIST_.* exceeded the quota\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Cannot convert a Symbol value to a string\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Unexpected token|identifier\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Cannot read property|properties of null|undefined|test\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"page\":\"unhandledrejection reason:.*\\\"Error\\\":{\\\"isTrusted\\\":true}\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\".* is not a function\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\".* is not defined\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Identifier .* has already been declared\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"undefined|null is not an object\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Load failed|URI malformed|Block-scoped declarations\",\"pagePath\":\"/login.html\",\"platform\":\"unknown\"}},{\"fields\":{\"errorMsg\":\"Cannot use import statement outside a module\",\"platform\":\"unknown\"}},{\"fields\":{\"pageUrl\":\"VerifyAuthToken=NukJap9uRU9iJMHh7K4PCw59fb4ef6ac3fb417c\"},\"eventType\":500},{\"fields\":{\"pageUrl\":\"VerifyAuthToken=NukJap9uRU9iJMHh7K4PCw59fb4ef6ac3fb417c\"}},{\"fields\":{\"platform\":\"unknown\"},\"eventType\":500,\"sampleRate\":0.01},{\"fields\":{\"platform\":\"^(?!unknown)\"},\"eventType\":500,\"sampleRate\":0.1},{\"fields\":{\"errorMsg\":\"html_error_img|lazy_image_error|cui_image_error\"},\"eventType\":501,\"sampleRate\":0.01},{\"fields\":{\"url\":\"assets-rcf\"},\"eventType\":501,\"sampleRate\":0.01},{\"fields\":{\"errorCode\":\"555555|555556\",\"platform\":\"^(?!unknown)\"},\"eventType\":501,\"sampleRate\":0.1},{\"fields\":{\"platform\":\"unknown\"},\"eventType\":501,\"sampleRate\":0.01},{\"fields\":{\"errorMsg\":\"unknow",
+    "window.leo={\"data\":{\"bottomTabSwitch\":\"B\",\"bottomTabDefaultData\":\"{    \\\"bottomTabDefaultData\\\": [        {            \\\"title\\\": \\\"首页\\\",            \\\"group\\\": 0,            \\\"image\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002Ff4f7bb8e393e08f1bd7a813d27e91c66.png\\\",            \\\"image_selected\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002F4149b41e8ade31e7487e12e372e13d69.png\\\",            \\\"link\\\": \\\"index.html\\\"        },        {            \\\"title\\\": \\\"直播\\\",            \\\"group\\\": 9,            \\\"image\\\": \\\"https:\\u002F\\u002Fcommimg.pddpic.com\\u002Foms_img_ng\\u002F2020-08-30\\u002F11a33bce-0c11-45fd-8c75-407b5173e3b5.png\\\",            \\\"image_selected\\\": \\\"https:\\u002F\\u002Fcommimg.pddpic.com\\u002Foms_img_ng\\u002F2020-08-30\\u002Feee5af71-215a-4b97-bacf-1d49da8e04f6.png\\\",            \\\"link\\\": \\\"ishow_community.html\\\"        },        {            \\\"title\\\": \\\"分类\\\",            \\\"group\\\": 2,            \\\"image\\\": \\\"https:\\u002F\\u002Fcommimg.pddpic.com\\u002Foms_img_ng\\u002F2021-01-20\\u002Fc4919102-bd46-4033-b754-390b0c95d2e8.png\\\",            \\\"image_selected\\\": \\\"https:\\u002F\\u002Fcommimg.pddpic.com\\u002Foms_img_ng\\u002F2021-01-20\\u002Faec9d812-7c0e-4d75-bbdc-48c5fcf44208.png\\\",            \\\"link\\\": \\\"classification.html\\\"        },        {            \\\"title\\\": \\\"聊天\\\",            \\\"group\\\": 3,            \\\"image\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002F40e2c153f09720b43044dfa82f771714.png\\\",            \\\"image_selected\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002Ff000638fa810c954ed344293d214bc34.png\\\",            \\\"link\\\": \\\"chat_list.html\\\"        },        {            \\\"title\\\": \\\"个人中心\\\",            \\\"group\\\": 4,            \\\"image\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002F8d22d9ba476f49fbebb66c8cf0d0aaab.png\\\",            \\\"image_selected\\\": \\\"http:\\u002F\\u002Ft13img.yangkeduo.com\\u002Fcart\\u002F2018-09-02\\u002F8d4c80854ebcc4c34628c15f1581527c.png\\\",            \\\"link\\\": \\\"personal.html\\\"        }    ],    \\\"skin\\\": {        \\\"text\\\": { \\\"color\\\": \\\"#666666\\\", \\\"color_selected\\\": \\\"#e02e24\\\" },        \\\"background\\\": { \\\"bg_color\\\": \\\"#ffffff\\\" },        \\\"red_spot\\\": { \\\"bg_color\\\": \\\"#e02e24\\\" },        \\\"corner_flag\\\": {            \\\"border_color\\\": \\\"#ffffff\\\",            \\\"bg_color\\\": \\\"#e02e24\\\",            \\\"font_color\\\": \\\"#ffffff\\\"        }    }}\",\"can_search_image_in_harmony\":\"A\",\"ab_home_index_and_search_result_goods_image_discard_mask\":\"424308\",\"search_result_show_similar_goods_entry\":\"A\",\"ab_search_sug_fontsize_id\":\"538524\",\"ab_search_result_change_default_error_msg\":\"447491\",\"ab_gateway_response_encryption\":\"535030\",\"ab_search_result_image_width_500\":\"552304\",\"ab_search_result_display_price\":\"546670\"},\"csrFallback\":false,\"fallbackData\":{}}",
+    "window.ab_window_key={\"543127\":1,\"ab_home_index_and_search_result_goods_image_discard_mask\":1,\"ab_search_result_change_default_error_msg\":1,\"ab_gateway_response_encryption\":1,\"ab_search_result_image_width_500\":1,\"ab_search_sug_fontsize_id\":3};",
+    "initInlineLogger({\"universalPaths\":[\"/relative_goods.html\",\"/fpctdipk.html\"],\"universalQueryKeys\":[\"__rp_name\",\"_t_module_name\"],\"appId\":\"100767\",\"testAppId\":\"100503\",\"bizSide\":\"consumer-platform-fe\"})"
+  ],
+  "stateKeys": [
+    "pageXOffset",
+    "pageYOffset",
+    "onpagereveal",
+    "oncontentvisibilityautostatechange",
+    "oncontextrestored",
+    "onformdata",
+    "onloadeddata",
+    "onloadedmetadata",
+    "onpagehide",
+    "onpageshow",
+    "onpopstate",
+    "cookieStore",
+    "onpageswap",
+    "__tti",
+    "__NAVIGATION_MAP__",
+    "__CMT_AMPLIFY_RATE__",
+    "__ERROR_SAMPLE_RATE__",
+    "__CMT_HOST__",
+    "__CDN_IMG__",
+    "__GLOBAL_LEO_CONFIG__",
+    "__ERROR_FILTER_LIST__",
+    "__AD_METRICS_CONFIG__",
+    "__CUSTOM_ERROR_LOGGER_PAYLOAD__",
+    "__RESET_ERROR_LISTENER__",
+    "__SPEPKEY__",
+    "__SSR_STREAM_END__",
+    "__LOADABLE_LOADED_CHUNKS__",
+    "__core-js_shared__",
+    "__mobxInstanceCount",
+    "__mobxGlobals",
+    "__adMetricsCheckResultMap",
+    "__adMetricsCheckConfig",
+    "__adMetricsCheckEnable",
+    "__fsImgItems",
+    "__FRONTEND_PERF_DATA__"
+  ]
+}

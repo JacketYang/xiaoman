@@ -1,0 +1,497 @@
+[
+  {
+    "province": "北京市",
+    "city": "北京市市本级",
+    "months": 13,
+    "amount": 2156,
+    "after13": 2129,
+    "success": true
+  },
+  {
+    "province": "天津市",
+    "city": "天津市市本级",
+    "months": 18,
+    "amount": 1420,
+    "after13": 1380,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "石家庄市",
+    "months": 13,
+    "amount": 1520,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "唐山市",
+    "months": 13,
+    "amount": 1520,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "months": 13,
+    "amount": 1520,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "邯郸市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "邢台市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "保定市",
+    "months": 13,
+    "amount": 1520,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "张家口市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "承德市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "沧州市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "廊坊市",
+    "months": 13,
+    "amount": 1520,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "河北省",
+    "city": "衡水市",
+    "months": 13,
+    "amount": 1432,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "呼和浩特市",
+    "months": 14,
+    "amount": 1584,
+    "after13": 1408,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "包头市",
+    "months": 14,
+    "amount": 1584,
+    "after13": 1408,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "乌海市",
+    "months": 14,
+    "amount": 1584,
+    "after13": 1408,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "赤峰市",
+    "months": 14,
+    "amount": 1494,
+    "after13": 1328,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "通辽市",
+    "months": 14,
+    "amount": 1494,
+    "after13": 1328,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "呼伦贝尔市",
+    "months": 14,
+    "amount": 1584,
+    "after13": 1408,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "巴彦淖尔市",
+    "months": 14,
+    "amount": 1404,
+    "after13": 1248,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "乌兰察布市",
+    "months": 14,
+    "amount": 1494,
+    "after13": 1328,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "沈阳市",
+    "months": 13,
+    "amount": 1629,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "大连市",
+    "months": 13,
+    "amount": 1629,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "鞍山市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "抚顺市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "本溪市",
+    "error": "CDP 命令超时: Runtime.evaluate"
+  },
+  {
+    "province": "辽宁省",
+    "city": "丹东市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "锦州市",
+    "months": 13,
+    "amount": 1332,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "营口市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "阜新市",
+    "months": 13,
+    "amount": 1332,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "辽阳市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "盘锦市",
+    "months": 13,
+    "amount": 1449,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "太原市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "大同市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "长治市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "晋城市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "朔州市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "晋中市",
+    "months": 14,
+    "amount": 1280,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "运城市",
+    "months": 14,
+    "amount": 1360,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "忻州市",
+    "months": 14,
+    "amount": 1280,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "临汾市",
+    "months": 14,
+    "amount": 1280,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "山西省",
+    "city": "吕梁市",
+    "months": 14,
+    "amount": 1280,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "内蒙古自治区",
+    "city": "鄂尔多斯市",
+    "months": 14,
+    "amount": 1584,
+    "after13": 1408,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "本溪市",
+    "error": "CDP 命令超时: Runtime.evaluate"
+  },
+  {
+    "province": "辽宁省",
+    "city": "铁岭市",
+    "months": 13,
+    "amount": 1332,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "朝阳市",
+    "months": 13,
+    "amount": 1332,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "辽宁省",
+    "city": "葫芦岛市",
+    "months": 13,
+    "amount": 1332,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "长春市",
+    "months": 14,
+    "amount": 2007,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "辽源市",
+    "months": 14,
+    "amount": 1683,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "通化市",
+    "months": 14,
+    "amount": 1683,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "白山市",
+    "months": 14,
+    "amount": 1818,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "松原市",
+    "months": 14,
+    "amount": 1818,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "吉林省",
+    "city": "白城市",
+    "months": 14,
+    "amount": 1683,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "months": 14,
+    "amount": 1512,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "齐齐哈尔市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "鸡西市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "鹤岗市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "双鸭山市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "大庆市",
+    "months": 14,
+    "amount": 1512,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "伊春市",
+    "months": 14,
+    "amount": 1512,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "佳木斯市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "七台河市",
+    "months": 14,
+    "amount": 1305,
+    "after13": 0,
+    "success": true
+  },
+  {
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "error": "CDP 命令超时: Runtime.evaluate"
+  }
+]
